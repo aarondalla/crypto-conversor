@@ -64,8 +64,8 @@ A partir do entendimento das necessidades expostas por cada persona, registramos
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Tamires Leticia de Mello | Obter empréstimo de forma totalmente remota | Evitar o deslocamento físico e dedicar mais tempo ao seu trabalho                    |
 | Leonardo Jacques         | Obter empréstimo para saldar o seu financiamento imobiliário | Necessita de agilidade e singularidade, pois, até o momento não encontrou um aplicativo que possua a opção de empréstimo voltado especificamente à quitação de financiamento imobiliário, o que por ser mais direcionado, poderia ensejar melhores condições de pagamento.
-| Thomas Ferreira          |                                                                                |
-| Thomas Ferreira          |                                                                                |
+| Thomas Ferreira          | Poder verificar os requisitos de potenciais clientes para minha micro-empresa de crédito | Tentar evitar a inadimplência
+| Thomas Ferreira          | Ter segurança ao fornecer crédito sem o custo que uma empresa de pequeno porte não pode arcar  | Poder oferecer crédito a taxas mais atrativas em função do baixo custo operacional da empresa
 | Geneci dos Santos        | Uma ferramenta que permita a concessão de empréstimo de forma fácil e simples  |  A conclusão do empréstimo via aplicativo com menos etapas possíveis
 | Rafael Luis              | Obter aprovação rápida de crédito para compra de peças de reposição  | Dar mais agilidade de resposta a seus clientes
 | Rafael Luis              | Aumentar a margem de credito de sua micro-empresa  | possibilitar sua expansão no mercado de forma competitiva
@@ -81,20 +81,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 | ID     | Descrição do Requisito                                                                                                                                                                                                | Prioridade |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| RF-001 | O site deve ser de fácil leitura e entendimento.            | ALTA       |
-| RF-002 | O site deve permitir ao cliente criar seu cadastro pessoal. | ALTA       |
-| RF-003 | O site terá uma página em que será possível acompanhar a cotação das criptomoedas no mercado financeiro.                                                                                                              | BAIXA      |
-| RF-004 | O site terá uma página em que será possível acessar um formulário de contato para que o usuário possa enviar dúvidas, sugestões ou críticas aos desenvolvedores do projeto.                                           | MÉDIA      |
-| RF-005 | Os campos presentes no formulário de contato são de preenchimento obrigatório, salvo o referente ao número de telefone, o que traz mais credibilidade ao contato do usuário, bem como minimiza o recebimento de spam. | ALTA       |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | 
+| RF-001 | O site deve permitir ao cliente criar seu cadastro pessoal.                                     | ALTA      |
+| RF-002 | A ferramenta deve permitir a aprovação de crédito 100% online.                                  | ALTA      |
+| RF-003 | A ferramenta deve permitir ao cliente informar a modalidade de crédito desejada para a escolha das melhores taxas.    | ALTA      |
+| RF-004 | O site deve permitir ao fornecedor de crédito verificar o _score_ de credito do requerinte.     | ALTA      |
+| RF-005 | O site deve ser de facil operação do lado **fornecedor** a fim de baixar custos operacionais.   | ALTA      |
+| RF-006 | A aplicação deve apresentar um metodo simples para a demanda e aprovação do serviço.            | ALTA       |
+| RF-007 | O cliente deve ter a opção de utilizar a modalidade _pessoa fisica_ ou _pessoa juridica_. | ALTA       |
+| RF-008 | A aplicação deve permitir ao cliente aumentar seu _score_ com base nos dados de pagamentos de fornecedores. | MÉDIA      |
 
 ### Requisitos não Funcionais
 
 | ID      | Descrição do Requisito                                                                      | Prioridade |
 | ------- | ------------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O site deverá ser publicado na internet.                                                    | MÉDIA      |
-| RNF-002 | O site deverá ser responsivo e poderá ser acessado em diversos dispositivos e equipamentos. | MÉDIA      |
-| RNF-003 | O site deverá ser compatível com diversos navegadores                                       | MÉDIA      |
+| RNF-001 | O site deverá ser de fácil leitura e entendimento.                                          | MÉDIA      |
+| RNF-002 | O site deverá ser publicado na internet.                                                    | MÉDIA      |
+| RNF-003 | O site deverá ser responsivo e poderá ser acessado em diversos dispositivos e equipamentos. | MÉDIA      |
+| RNF-004 | O site deverá ser compatível com diversos navegadores                                       | MÉDIA      |
 
 ## Restrições
 
