@@ -13,28 +13,27 @@ Tendo em vista os problemas citados, os objetivos do nosso projeto proposto são
 
 ### Objetivo geral
 
- Desenvolver uma aplicação/ferramenta de fácil utilização e simples entendimento, confiável e seguro, acessível e claro aos seus usuários. Queremos que nosso produto facilite a vida do cliente e fornecedor.
+Desenvolver uma aplicação/ferramenta de fácil utilização e simples entendimento, confiável e ágil, acessível e claro aos seus usuários. Com isso, o nosso projeto tem como objetivo simplificar a busca e a oferta de crédito.
 
 ### Objetivos especifícos
 
 1. Desenvolver uma aplicação de solicitação de crédito de fácil acesso;
 3. Fornecer uma ferramenta que permita ao cliente provar seus rendimentos para obtenção de crédito;
 5. Fornecer ao cliente um relatório sobre seu nível de crédito;
-3. Desenvolver uma aplicação de fornecimento de crédito de fácil usabilidade e seguro;
-7. Fornecer também uma ferramenta ao microempresário de crédito para validar os requisitos necessários ao requerinte;
-6. Permitir ao fornecedor de crédito um relatório que indique o risco relacionado a um pedido de crédito. 
+3. Desenvolver uma aplicação de fornecimento de crédito de fácil usabilidade e ágil;
+7. Fornecer informações ao microempresário de crédito para validar os requisitos necessários do cliente para obtenção de crédito;
+6. Permitir ao fornecedor de crédito um relatório, via _Crédit Score_, que indique o risco relacionado a um cliente que fez pedido de crédito. 
 
 
 # Justificativa
 
-Durante o período pandêmico, houve um aumento de 113% [^1]  na busca por empréstimo pessoal, por isso, fica evidente a necessidade de um aplicativo/ferramenta para atender e suprir o aumento desta demanda.
-Deste modo, com o desenvolvimento da ferramente aqui proposta, o crédito poderá alcancar quem mais necessita de forma simples, prática e segura.
-[^1] QUINTINO, Larissa.Em meio à pandemia, procura por empréstimo pessoal sobe 113%. Revista Veja, 20 de jun. de 2020. Disponível em:<https://veja.abril.com.br/economia/em-meio-a-pandemia-procura-por-emprestimo-pessoal-sobe-113/>.Acesso em 10 de ago. de 2022.
+Durante o período pandêmico, houve um aumento de 113% na busca por empréstimo pessoal, por isso, fica evidente a necessidade de um aplicativo/ferramenta para atender e suprir o aumento desta demanda. 
+Deste modo, com o desenvolvimento da aplicação aqui proposta, o crédito poderá alcancar quem mais necessita de forma simples e prática. Disponível em:<https://veja.abril.com.br/economia/em-meio-a-pandemia-procura-por-emprestimo-pessoal-sobe-113/>.Acesso em 10 de ago. de 2022.
 
 
 
 # Público-Alvo
 
-Pessoas que necessitem de uma ajudinha para finalizar o mês ou  realizar um sonho; microempresários que estejam lutando diariamente para fazer sua empresa deslanchar e precisam de um parceiro justo e seguro; pequenos empresários que atuem no segmento de empréstimos e tenham limitação de <i>budget</i> para a aquisição de softwares para a viabilização de seus negócios.
+Público em geral, entenda-se tanto pessoa física quanto pessoa jurídica. Nosso projeto dará ênfase a autonomia do usuário que deseja solicitar crédito e também ao usuário micro-empresário que pretende oferecer crédito. 
 
 
