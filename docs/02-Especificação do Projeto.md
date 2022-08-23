@@ -10,17 +10,17 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 | ![persona 1-edit1](https://user-images.githubusercontent.com/93105125/184463332-bc11ea3f-570a-431b-b761-0578aad9be0f.png) | Tamires Leticia de Mello, 32 anos                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------     |
-| Ocupação                                    | Designer de bolsas e sapatos - Pessoa Física 
+| Ocupação                                    | Designer de bolsas e sapatos - Pessoa Física / Pessoa Jurídica
 | Credit Score                                |  900/1000                                                                   
 | Motivações | Obter crédito via empréstimo de forma remota e sem a necessidade do deslocamento presencial voltado às pessoas físicas de modo à impulsionar as suas atividades como designer de bolsas e sapatos  
 | Restrições anteriores de crédito em seu nome | Não                                                                                        
-| Frustrações |  Ainda que possua um elevado Credit Score e não possua restrições anteriores de crédito em seu nome, encontra dificuldade em adquirir empréstimos nas empresas tradicionais, pois, por ser autônoma, estas empresas exigem a sua presença física para análise e eventual concessão da linha de crédito, o que gera grande dificuldade, dado que, por trabalhar sozinha, o deslocamento muitas vezes nos grandes centros urbanos 
+| Frustrações |  Ainda que possua um elevado Credit Score e não possua restrições anteriores de crédito em seu nome, encontra dificuldade em adquirir empréstimos nas empresas tradicionais, pois, por ser autônoma, estas empresas exigem sua presença física para análise e eventual concessão da linha de crédito. Isso gera grande dificuldade, visto que para comparecer as instituições financeiras, ela precisa deixar de lado algum de seus clientes
 
 ## `Leonardo Jacques`
 
 | ![persona 2-edit1](https://user-images.githubusercontent.com/93105125/184463347-8705e0fa-419c-405e-bbdf-054222c739ac.png) | Leonardo Jacques, 36 anos                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| Ocupação                    | Operador de máquinas CNC  
+| Ocupação                    | Operador de máquinas CNC - Pessoa Física
 | Credit Score                |        850/1000            |
 | Motivações                  |      Conseguir a liberação de linha de crédito para a quitação de seu financiamento imobiliário           |
 | Frustações                  |      Até o momento não encontrou  junto às empresas tradicionais do segmento um aplicativo com a opção para financiamento imobiliário de maneira específica             |
@@ -31,7 +31,7 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 | ![persona 5-edit1](https://user-images.githubusercontent.com/93105125/184463353-81e040c4-a04e-4d21-86df-6d9196dce137.png) | Thomas Ferreira, 33 anos                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| Ocupação                    | Empreendedor  
+| Ocupação                    | Empreendedor  - Pessoa Jurídica
 | Credit Score                | Fornecedor de crédito        |
 | Motivações                  | Ser capaz de inserir sua empresa no mercado de forma efetiva. Ser capaz de avaliar o perfil do seu cliente em potencial de forma clara e direta.   |
 | Frustações                  | Não ter a capacidade de arcar com os altos custos dos grandes _softwares_ de analise de crédito.     |
@@ -42,19 +42,19 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 | ![persona 4-edit1](https://user-images.githubusercontent.com/93105125/184463368-b5644e11-5e5b-43db-84db-0b1f980d5fa3.png) | Geneci dos Santos, 63 anos                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| Ocupação            | Recém-aposentada |                                                                                                 
+| Ocupação            | Recém-aposentada - Pessoa Física                                                                                                 
 | Credit Score        | 850/1000                                                                                                                
-| Motivações          | Deseja obter um empréstimo via aplicativo para realizar um tratamento médico, pois, não possui plano de saúde 
-| Frustrações?        | Como não domina o uso de novas tecnologias, precisa de um aplicativo que ofereça praticidade e facilidade em seu uso                                                                                                                       
+| Motivações          | Deseja obter um empréstimo via aplicativo para realizar um tratamento médico, pois não possui plano de saúde 
+| Frustrações?        | Como não domina o uso de novas tecnologias, precisa de um aplicativo que ofereça praticidade e facilidade  uso                                                                                                                       
 
 ## `Rafael Luis`
 
 | ![persona 3-edit1](https://user-images.githubusercontent.com/93105125/184463370-e1c99e92-fe8d-4509-af57-d5392746152b.png) | Rafael Luis, 35 anos                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| Ocupação            | Tecnico em TI |                                                                                                 
+| Ocupação            | Técnico de TI - Pessoa Física / Pessoa Jurídica                                                                                                 
 | Credit Score        | 800/1000                                                                                                                
 | Motivações          | Deseja aumentar o crédito de sua micro-empresa para assim melhorar a agilidade de atendimento a seus clientes 
-| Frustrações?        | Como trabalha muito com manutenção em seus clientes, necessita de uma linha de crédito rápida para a reposição de peças, coisa que não tem com o sistema tradicional   
+| Frustrações?        | Como trabalha muito com manutenção em seus clientes, necessita de uma linha de crédito rápida para a reposição de peças. 
 
 ## Histórias de Usuários
 
@@ -65,10 +65,10 @@ A partir do entendimento das necessidades expostas por cada persona, registramos
 | Tamires Leticia de Mello | Obter empréstimo de forma totalmente remota | Evitar o deslocamento físico e dedicar mais tempo ao seu trabalho                    |
 | Leonardo Jacques         | Obter empréstimo para saldar o seu financiamento imobiliário | Necessita de agilidade e singularidade, pois, até o momento não encontrou um aplicativo que possua a opção de empréstimo voltado especificamente à quitação de financiamento imobiliário, o que por ser mais direcionado, poderia ensejar melhores condições de pagamento.
 | Thomas Ferreira          | Poder verificar os requisitos de potenciais clientes para minha micro-empresa de crédito | Tentar evitar a inadimplência
-| Thomas Ferreira          | Ter segurança ao fornecer crédito sem o custo que uma empresa de pequeno porte não pode arcar  | Poder oferecer crédito a taxas mais atrativas em função do baixo custo operacional da empresa
-| Geneci dos Santos        | Uma ferramenta que permita a concessão de empréstimo de forma fácil e simples  |  A conclusão do empréstimo via aplicativo com menos etapas possíveis
+| Thomas Ferreira          | Ter facilidade e agilidade para o fornecimento de crédito  | Poder oferecer crédito com menos complicações burocráticas
+| Geneci dos Santos        | Ter autonomia para poder requisitar sozinha empréstimos pessoais  |  A conclusão do empréstimo via aplicativo com menos etapas possíveis
 | Rafael Luis              | Obter aprovação rápida de crédito para compra de peças de reposição  | Dar mais agilidade de resposta a seus clientes
-| Rafael Luis              | Aumentar a margem de credito de sua micro-empresa  | possibilitar sua expansão no mercado de forma competitiva
+| Rafael Luis              | Aumentar a margem de crédito de sua micro-empresa  | Possibilitar sua expansão no mercado de forma competitiva
 
 
 
@@ -82,23 +82,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID     | Descrição do Requisito                                                                                                                                                                                                | Prioridade |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | 
-| RF-001 | O site deve permitir ao cliente criar seu cadastro pessoal.                                     | ALTA      |
-| RF-002 | A ferramenta deve permitir a aprovação de crédito 100% online.                                  | ALTA      |
-| RF-003 | A ferramenta deve permitir ao cliente informar a modalidade de crédito desejada para a escolha das melhores taxas.    | ALTA      |
-| RF-004 | O site deve permitir ao fornecedor de crédito verificar o _score_ de credito do requerinte.     | ALTA      |
-| RF-005 | O site deve ser de facil operação do lado **fornecedor** a fim de baixar custos operacionais.   | ALTA      |
-| RF-006 | A aplicação deve apresentar um metodo simples para a demanda e aprovação do serviço.            | ALTA       |
-| RF-007 | O cliente deve ter a opção de utilizar a modalidade _pessoa fisica_ ou _pessoa juridica_. | ALTA       |
-| RF-008 | A aplicação deve permitir ao cliente aumentar seu _score_ com base nos dados de pagamentos de fornecedores. | MÉDIA      |
+| RF-001 | A aplicação deve permitir ao cliente criar seu cadastro pessoal.                                               | ALTA      |
+| RF-002 | A aplicação deve permitir a aprovação de crédito 100% online.                                                  | ALTA      |
+| RF-003 | A aplicação deve permitir ao cliente informar a modalidade de crédito desejada para a escolha das melhores taxas.    | ALTA      |
+| RF-004 | A aplicação deve permitir ao fornecedor de crédito verificar o _score_ de credito do requerente.               | ALTA      |
+| RF-005 | A aplicação deve apresentar um metodo simples para a demanda e aprovação do serviço.                           | ALTA       |
+| RF-006 | A aplicação deve ter a opção de utilizar a modalidade _pessoa fisica_ ou _pessoa juridica_.                    | ALTA       |
+| RF-007 | A aplicação deve permitir ao cliente aumentar seu _score_ com base nos dados de pagamentos de fornecedores.    | MÉDIA      |
 
 ### Requisitos não Funcionais
 
 | ID      | Descrição do Requisito                                                                      | Prioridade |
 | ------- | ------------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O site deverá ser de fácil leitura e entendimento.                                          | MÉDIA      |
-| RNF-002 | O site deverá ser publicado na internet.                                                    | MÉDIA      |
-| RNF-003 | O site deverá ser responsivo e poderá ser acessado em diversos dispositivos e equipamentos. | MÉDIA      |
-| RNF-004 | O site deverá ser compatível com diversos navegadores                                       | MÉDIA      |
+| RNF-001 | A aplicação deverá ser de fácil leitura e entendimento.                                          | MÉDIA      |
+| RNF-002 | A aplicação deverá ser publicado na internet.                                                    | MÉDIA      |
+| RNF-003 | A aplicação deverá ser responsivo e poderá ser acessado em diversos dispositivos e equipamentos. | MÉDIA      |
+| RNF-004 | A aplicação deverá ser compatível com diversos navegadores                                       | MÉDIA      |
 
 ## Restrições
 
