@@ -10,20 +10,25 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 | ![persona 1-edit1](https://user-images.githubusercontent.com/93105125/184463332-bc11ea3f-570a-431b-b761-0578aad9be0f.png) | Tamires Leticia de Mello, 32 anos                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------     |
-| Ocupação                                    | Designer de bolsas e sapatos - Pessoa Física / Pessoa Jurídica
+| Ocupação                                    | Designer de bolsas e sapatos - Pessoa Física / Pessoa Jurídica |
+| História        | Tamires se formou há dois anos e dedica grande parte de seu tempo ao trabalho. Contudo, apesar de seus esforços, ainda está no início da carreira e possui salário de R$ 2.106,87. Mora de aluguel e possui um pet, sendo que seu salário é suficiente apenas para as despesas necessárias, como alimentação, transporte, moradia e manutenção de seu pet. Gostaria de conseguir melhorar suas roupas e acessórios e comprar um carro |                      
 | Credit Score                                |  900/1000                                                                   
-| Motivações | Obter crédito via empréstimo de forma remota e sem a necessidade do deslocamento presencial voltado às pessoas físicas de modo à impulsionar as suas atividades como designer de bolsas e sapatos  
+| Motivações | Obter crédito via empréstimo de forma remota e sem a necessidade do deslocamento presencial voltado às pessoas físicas de modo à conseguir ter uma imagem melhor em seu ambiente de trabalho e ser valorizada |
 | Restrições anteriores de crédito em seu nome | Não                                                                                        
-| Frustrações |  Ainda que possua um elevado Credit Score e não possua restrições anteriores de crédito em seu nome, encontra dificuldade em adquirir empréstimos nas empresas tradicionais, pois, por ser autônoma, estas empresas exigem sua presença física para análise e eventual concessão da linha de crédito. Isso gera grande dificuldade, visto que para comparecer as instituições financeiras, ela precisa deixar de lado algum de seus clientes
+| Frustrações |  Ainda que possua um elevado Credit Score e não possua restrições anteriores de crédito em seu nome, encontra dificuldade em adquirir empréstimos nas empresas tradicionais, pois, por ser autônoma, estas empresas exigem sua presença física para análise e eventual concessão da linha de crédito. Isso gera grande dificuldade, visto que para comparecer as instituições financeiras, ela precisa deixar de lado algum de seus clientes|
+|    Aplicativos                    |     Facebook, Instagram, Vogue Runway, Percentil, TagWalk, Stylicious, TagWalk |
 
 ## `Leonardo Jacques`
 
 | ![persona 2-edit1](https://user-images.githubusercontent.com/93105125/184463347-8705e0fa-419c-405e-bbdf-054222c739ac.png) | Leonardo Jacques, 36 anos                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| Ocupação                    | Operador de máquinas CNC - Pessoa Física
+| Ocupação                    | Operador de máquinas CNC - Pessoa Física |
+| História | Leonardo se casou recentemente e sua esposa está grávida de seu primeiro filho. É torneiro CNC, mas está estudando programação para tentar um emprego com melhor remuneração. Comprou, com financiamento, um apartamento de 90 m², com três quartos e uma vaga de garagem. Sua esposa trabalha como professora de ensino infantil e está com 20 semanas de gravidez. Pretende pesquisar sobre linhas de crédito com taxas atrativas para avaliar a possibilidade de quitar seu financiamento imobiliário |
 | Credit Score                |        850/1000            |
 | Motivações                  |      Conseguir a liberação de linha de crédito para a quitação de seu financiamento imobiliário           |
-| Frustações                  |      Até o momento não encontrou  junto às empresas tradicionais do segmento um aplicativo com a opção para financiamento imobiliário de maneira específica             |
+| Frustações                  |      Até o momento não encontrou  junto às empresas tradicionais do segmento um aplicativo com a opção para financiamento imobiliário de maneira específica            |
+| Aplicativos |  Udemy, Repl.it, Twitter, Facebook                 |
+
 
 
 
@@ -49,10 +54,11 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 ## `Rafael Luis`
 
-| ![persona 3-edit1](https://user-images.githubusercontent.com/93105125/184463370-e1c99e92-fe8d-4509-af57-d5392746152b.png) | Rafael Luis, 35 anos                                                                                                           |
+| ![persona 3-edit1](https://user-images.githubusercontent.com/93105125/184463370-e1c99e92-fe8d-4509-af57-d5392746152b.png) | Rafael Luis, 28 anos                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| Ocupação            | Técnico de TI - Pessoa Física / Pessoa Jurídica                                                                                                 
-| Credit Score        | 800/1000                                                                                                                
+| Ocupação            | Técnico de TI - Pessoa Física / Pessoa Jurídica   |
+| História   |    Rafael é formado há pouco tempo e, junto com dois amigos de faculdade, montou uma startup que está em fase final de aceleração. Ele e seus sócios ainda moram com os pais e não recebem pro-labore da sociedade que possuem. Para que a startup possa prestar bons serviços, é necessário realizar um investimento, mas os sócios não possuem recursos e buscam uma linha de empréstimo com baixo custo.
+| Credit Score        | 350/1000                                                                                                                
 | Motivações          | Deseja aumentar o crédito de sua micro-empresa para assim melhorar a agilidade de atendimento a seus clientes 
 | Frustrações?        | Como trabalha muito com manutenção em seus clientes, necessita de uma linha de crédito rápida para a reposição de peças. 
 
